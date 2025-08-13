@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 20px 10px;
+    background-color:black;
+}
+
+table, td, th{
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 15px;
+    }
